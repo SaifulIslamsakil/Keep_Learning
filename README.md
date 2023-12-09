@@ -2,8 +2,7 @@
 [Live link ](https://keep-lerning-clint.vercel.app/)
 
 ## Project Details
-This project an Lerning managements syestem web application. to creating this web application i use html, tailwind, javascrt
-and react js and  data management i am using mongodb express js and node js basics. or user authentication use fribase
+This project is a Learning management system web application. To create this web application, I used HTML, Tailwind, JavaScript, and React.js for the front end. For data management, I utilized MongoDB, Express.js, and Node.js. Additionally, for user authentication, I employed Firebase.
 
 Currently, two official plugins are available:
 
