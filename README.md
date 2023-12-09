@@ -1,7 +1,9 @@
 # Keep_learning
 [Live link ](https://keep-lerning-clint.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Details
+This project an Lerning managements syestem web application. to creating this web application i use html, tailwind, javascrt
+and react js and  data management i am using mongodb express js and node js basics. or user authentication use fribase
 
 Currently, two official plugins are available:
 
